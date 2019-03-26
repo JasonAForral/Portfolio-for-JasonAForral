@@ -25,7 +25,7 @@ See on [profile page freeCodeCamp](https://www.freecodecamp.com/jasonaforral)
 
 [Bar Chart](http://codepen.io/Tsinoyboi/full/PZrEJV/)
 
-[Scatterplot Graph]()http://codepen.io/Tsinoyboi/full/qbeWyv/
+[Scatterplot Graph](http://codepen.io/Tsinoyboi/full/qbeWyv/)
 
 [Heat Map](http://codepen.io/Tsinoyboi/full/dGxzNz/)
 
